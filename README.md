@@ -1,4 +1,5 @@
 # Secure Service Communication using TLS and Mutual TLS (mTLS)
+Secure service-to-service communication using TLS, mutual TLS (mTLS), OpenSSL, and certificate-based authentication.
 
 ## Objective
 
