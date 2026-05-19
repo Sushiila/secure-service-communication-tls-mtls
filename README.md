@@ -45,9 +45,10 @@ Captured and analyzed unencrypted traffic using tcpdump to validate encryption e
 
   ## Screenshots
   ## 1. Unencrypted Backend Communication
-  (https://github.com/Sushiila/secure-service-communication-tls-mtls/blob/4d9feff150e95b45b21402c541b8602a4d1ade93/01%20-%20Backend%20Communication%20Over%20HTTP%20Without%20Encryption.png))
+  (https://github.com/Sushiila/secure-service-communication-tls-mtls/blob/4d9feff150e95b45b21402c541b8602a4d1ade93/01%20-%20Backend%20Communication%20Over%20HTTP%20Without%20Encryption.png)
 
 ## 2. Traffic Interception using tcpdump
+(https://github.com/Sushiila/secure-service-communication-tls-mtls/blob/445d1a31f625429138065417c66de163d08ba919/02-%20Intercepting%20Unencrypted%20Backend%20Traffic%20Using%20tcpdump.png)
 
 
 ## 3. Certificate Authority Setup
