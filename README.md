@@ -43,3 +43,24 @@ Captured and analyzed unencrypted traffic using tcpdump to validate encryption e
 - TLS/mTLS
 - Network Security
 - Linux Administration
+
+  ## Screenshots
+  ## 1. Unencrypted Backend Communication
+
+(image)
+
+## 2. Traffic Interception using tcpdump
+
+(image)
+
+## 3. Certificate Authority Setup
+
+(image)
+
+## 4. TLS Encryption Successfully Established
+
+(image)
+
+## 5. Unauthorized Client Blocked using mTLS
+
+(image)
