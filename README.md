@@ -45,7 +45,7 @@ Captured and analyzed unencrypted traffic using tcpdump to validate encryption e
 - Linux Administration
 
   ## Screenshots
-  1. Unencrypted Backend Communication
+1. Unencrypted Backend Communication
   (https://github.com/Sushiila/secure-service-communication-tls-mtls/blob/4d9feff150e95b45b21402c541b8602a4d1ade93/01%20-%20Backend%20Communication%20Over%20HTTP%20Without%20Encryption.png)
 
 2. Traffic Interception using tcpdump
