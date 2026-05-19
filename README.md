@@ -58,5 +58,4 @@ Captured and analyzed unencrypted traffic using tcpdump to validate encryption e
 (https://github.com/Sushiila/secure-service-communication-tls-mtls/blob/d29068cf6cbf530fff096d3c12a834f31541065d/04%20-%20Encrypted%20Communication%20Established%20Between%20Services%20Using%20TLS.png)
 
 ## 5. Unauthorized Client Blocked using mTLS
-
-(image)
+(https://github.com/Sushiila/secure-service-communication-tls-mtls/blob/57f7b300185e8379824bf0549e1f963344e91428/05%20-%20Unauthorized%20Service%20Blocked%20Without%20Valid%20Client%20Certificate%20(mTLS%20Enforcement).png)
